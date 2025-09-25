@@ -25,5 +25,6 @@ public class Aula05EstruturasCondicionais04 {
             ValorImposto = salarioAnual * terceiraFaixa;
         }
         System.out.println(ValorImposto);
+        System.out.println(salarioAnual);
     }
 }
